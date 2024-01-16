@@ -1,0 +1,14 @@
+/Users/mohamed/Desktop/persoProject/UnitTests/UnitTests/bin/Debug/net8.0/UnitTests
+/Users/mohamed/Desktop/persoProject/UnitTests/UnitTests/bin/Debug/net8.0/UnitTests.deps.json
+/Users/mohamed/Desktop/persoProject/UnitTests/UnitTests/bin/Debug/net8.0/UnitTests.runtimeconfig.json
+/Users/mohamed/Desktop/persoProject/UnitTests/UnitTests/bin/Debug/net8.0/UnitTests.dll
+/Users/mohamed/Desktop/persoProject/UnitTests/UnitTests/bin/Debug/net8.0/UnitTests.pdb
+/Users/mohamed/Desktop/persoProject/UnitTests/UnitTests/obj/Debug/net8.0/UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamed/Desktop/persoProject/UnitTests/UnitTests/obj/Debug/net8.0/UnitTests.AssemblyInfoInputs.cache
+/Users/mohamed/Desktop/persoProject/UnitTests/UnitTests/obj/Debug/net8.0/UnitTests.AssemblyInfo.cs
+/Users/mohamed/Desktop/persoProject/UnitTests/UnitTests/obj/Debug/net8.0/UnitTests.csproj.CoreCompileInputs.cache
+/Users/mohamed/Desktop/persoProject/UnitTests/UnitTests/obj/Debug/net8.0/UnitTests.dll
+/Users/mohamed/Desktop/persoProject/UnitTests/UnitTests/obj/Debug/net8.0/refint/UnitTests.dll
+/Users/mohamed/Desktop/persoProject/UnitTests/UnitTests/obj/Debug/net8.0/UnitTests.pdb
+/Users/mohamed/Desktop/persoProject/UnitTests/UnitTests/obj/Debug/net8.0/UnitTests.genruntimeconfig.cache
+/Users/mohamed/Desktop/persoProject/UnitTests/UnitTests/obj/Debug/net8.0/ref/UnitTests.dll

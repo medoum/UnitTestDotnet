@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{80DD3013-CE08-4CC7-B020-76908C6C7333}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.UnitTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTests/Tests/WordsDumbsFunctionTest.cs">
+    <Files>
+      <File FileName="UnitTests/Program.cs" Line="6" Column="81" />
+      <File FileName="UnitTests/WordsDumbsFunction.cs" Line="17" Column="23" />
+      <File FileName="UnitTests/Tests/WordsDumbsFunctionTest.cs" Line="4" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnitTests" expanded="True">
+            <Node name="UnitTests">
+              <Node name="Tests">
+                <Node name="WordsDumbsFunctionTest.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
